@@ -2,3 +2,4 @@
 ._*
 conf/chat.yaml
 debug
+script/check_MAA_emulator.py
